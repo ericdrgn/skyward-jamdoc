@@ -1,16 +1,16 @@
 <template>
   <a href="https://co14ers.skyward.voyage" :class="size" title="Story of the 14ers" aria-label="Story of the 14ers">
-    <gitlab-icon class="icon" />
+    <openbook-icon class="icon" />
     {{text}}
   </a>
 </template>
 
 <script>
-import { GitlabIcon } from 'vue-feather-icons'
+import { OpenbookIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    GitlabIcon
+    OpenbookIcon
   },
   props: {
     size: {
