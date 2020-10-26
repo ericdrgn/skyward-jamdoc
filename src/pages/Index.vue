@@ -31,7 +31,7 @@ export default {
   },
   data() {
     return {
-      description: 'Skyward Voyage'
+      description: ''
     }
   },
   metaInfo() {
