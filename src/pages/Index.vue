@@ -4,9 +4,9 @@
       <h1>{{ this.description }}</h1>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/getting-started" text="Introduction" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+        <Shortcut link="/getting-started" text="14ers" icon="play-icon" />
+        <Shortcut link="/theme-configuration" text="The Story" icon="sliders-icon" />
+        <Shortcut link="/theme-configuration#changing-colors" text="Locations" icon="eye-icon" />
       </nav>
     </div>
   </Layout>
