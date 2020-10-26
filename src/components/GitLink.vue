@@ -6,11 +6,11 @@
 </template>
 
 <script>
-import { gitlabIcon } from 'vue-feather-icons'
+import { GitlabIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    gitlabIcon
+    GitlabIcon
   },
   props: {
     size: {
