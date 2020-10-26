@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'Skyward Voyage',
+  siteUrl: 'https://skyward.voyage',
   templates: {
     Doc: '/:slug',
   },
