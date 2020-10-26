@@ -6,11 +6,11 @@
 </template>
 
 <script>
-import { open-bookIcon } from 'vue-feather-icons'
+import { openbookIcon } from 'vue-feather-icons'
 
 export default {
   components: {
-    open-bookIcon
+    openbookIcon
   },
   props: {
     size: {
