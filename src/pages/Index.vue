@@ -8,6 +8,7 @@
         <Shortcut link="co14ers.skyward.voyage" text="The Story" icon="sliders-icon" />
         <Shortcut link="/theme-configuration#changing-colors" text="Locations" icon="eye-icon" />
       </nav>
+      <GitLink class="git" size="large" />
     </div>
   </Layout>
 </template>
