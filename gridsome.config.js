@@ -16,8 +16,9 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  
+  siteName: 'Skyward Voyage',
   siteUrl: 'https://skyward.voyage',
+  titleTemplate: '%s',
   templates: {
     Doc: '/:slug',
   },
